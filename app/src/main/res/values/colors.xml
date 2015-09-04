@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titleTextColor">#800000</color>
+    <color name="detailTextColor">#330000</color>
+    <color name="horizontal_line_color">#A3A39C</color>
+    <color name="box_background">#C7C7C7</color>
+    <color name="box_background_dark">#CBCBCB</color>
+    <color name="box_background_light">#E2E2E2</color>
+    <color name="reviewerNameTextColor">#42426F</color>
+</resources>
